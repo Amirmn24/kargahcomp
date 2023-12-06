@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("tamrin kargah sakhte!!!");
+	printf("tamrin besiar kargah sakhte!!!");
 
 	return 0;
 }
